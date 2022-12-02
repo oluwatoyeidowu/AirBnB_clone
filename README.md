@@ -12,7 +12,6 @@ The console is the first segment of the AirBnB project at Alx that will collecti
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
-* [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Authors](#authors)
 
